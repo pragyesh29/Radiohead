@@ -5,7 +5,7 @@
         "fields": {
           "title": "Kid A [Studio Album]",
           "price": 15.00,
-          "image": { "fields": { "file": { "url": "images/store/Kid A.jpg" } } }
+          "image": { "fields": { "file": { "url": "./Images/store/Kid A.jpg" } } }
         }
       },
       {
@@ -13,7 +13,7 @@
         "fields": {
           "title": "Amnesiac",
           "price": 12.99,
-          "image": { "fields": { "file": { "url": "images/store/Amnesiac.jpg" } } }
+          "image": { "fields": { "file": { "url": "./Images/store/Amnesiac.jpg" } } }
         }
       },
       {
@@ -21,7 +21,7 @@
         "fields": {
           "title": "Radiohead Tee",
           "price": 9.50,
-          "image": { "fields": { "file": { "url": "images/store/bsi_radi10.jpg" } } }
+          "image": { "fields": { "file": { "url": "./Images/store/bsi_radi10.jpg" } } }
         }
       },
       {
@@ -29,7 +29,7 @@
         "fields": {
           "title": "Radiohead navy tee",
           "price": 22.99,
-          "image": { "fields": { "file": { "url": "images/store/radiohead-navy-tee.jpg" } } }
+          "image": { "fields": { "file": { "url": "./Images/store/radiohead-navy-tee.jpg" } } }
         }
       },
       {
@@ -37,7 +37,7 @@
         "fields": {
           "title": "OK Computer [Studio Album]",
           "price": 88.99,
-          "image": { "fields": { "file": { "url": "images/store/OK Computer.jpg" } } }
+          "image": { "fields": { "file": { "url": "./Images/store/OK Computer.jpg" } } }
         }
       },
       {
@@ -45,7 +45,7 @@
         "fields": {
           "title": "Hail To The Theif [Studio Album]",
           "price": 32.99,
-          "image": { "fields": { "file": { "url": "images/httt.jpg" } } }
+          "image": { "fields": { "file": { "url": "./Images/store/httt.jpg" } } }
         }
       },
       {
@@ -53,7 +53,7 @@
         "fields": {
           "title": "Jhonny Greenwood Guitar",
           "price": 45.99,
-          "image": { "fields": { "file": { "url": "images/store/electric guitar.jpg" } } }
+          "image": { "fields": { "file": { "url": "./Images/store/electric guitar.jpg" } } }
         }
       },
       {
@@ -61,7 +61,7 @@
         "fields": {
           "title": "Radiohead yellow tee",
           "price": 33.99,
-          "image": { "fields": { "file": { "url": "images/store/2017-new-fashion-radiohead-rock-band-mens.jpg" } } }
+          "image": { "fields": { "file": { "url": "./Images/store/2017-new-fashion-radiohead-rock-band-mens.jpg" } } }
         }
       },
       {
@@ -69,7 +69,7 @@
         "fields": {
           "title": "Philip Selway Drum sticks",
           "price": 15.50,
-          "image": { "fields": { "file": { "url": "images/store/The Bends.jpg" } } }
+          "image": { "fields": { "file": { "url": "./Images/store/The Bends.jpg" } } }
         }
       }
     ]

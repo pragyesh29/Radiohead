@@ -12,8 +12,8 @@
         <i class="fas fa-times toggle"></i>
       </div>
       <nav class="d-flex justify-content-center justify-content-lg-between align-items-center">
-        <a class="navbar-brand" href="try.php">
-          <img src="images/radiohead-bear.png" class="img-fluid" alt="Radiohead">
+        <a class="navbar-brand" href="cart.php">
+          <img src="./Images/radiohead-bear.png" class="img-fluid" alt="Radiohead">
         </a>
         <ul class="nav-list text-center p-0">
           <li class="nav-item">
@@ -34,7 +34,7 @@
         <h1 class="display-4">Welcome</h1>
         <p class="lead mb-4">Everything in its right Place!</p>
         <a class="btn px-5 mr-2" href="#">Explore</a>
-        <a class="btn px-5" href="#">Albums</a>
+        <a class="btn px-5" href="#albums">Albums</a>
       </div>
     </div>
   </header>
@@ -53,7 +53,8 @@
             <a class="btn mt-4 mb-5 mb-md-0" href="#">Find out more</a>
           </div>
           <div class="col-12 col-md-6" data-aos="fade-left" data-aos-duration="1000" data-aos-easing="ease">
-            <img class="img-fluid" src="images/Radiohead.gif" alt="">
+            <!-- <img class="img-fluid" src="./Images/Radiohead.gif" alt=""> -->
+            <img class="img-fluid" src="https://therevue.ca/wp-content/uploads/2020/09/radiohead-1.jpg" alt="">
           </div>
         </div>
       </div>
@@ -91,7 +92,7 @@
         <hr class="mt-5">
       </div>
 
-      <div class="container-fluid p-0">
+      <div class="container-fluid p-0" id="albums">
         <div class="section-heading my-5 text-center">
           <h4 class="text-white">Music</h4>
           <h1 class="display-4">Discographies</h1>
@@ -100,34 +101,37 @@
         <div class="row no-gutters">
           <!-- Column set #1 -->
           <div class="col-12 col-md-6 col-xl-2 order-sm-1 order-xl-1">
-            <img class="img-fluid" src="images/OK Computer.jpg" alt="">
+            <!-- <img class="img-fluid" src="./Images/OK Computer.jpg" alt=""> -->
+            <img class="img-fluid" src="https://img.discogs.com/yIM4lSU_7uAcYRUP_paNthymO30=/fit-in/600x593/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1399301-1404414270-1807.jpeg.jpg" alt="">
           </div>
           <div class="col-12 col-md-6 col-xl-2 order-sm-2 order-xl-2 point-left">
             <div class="menu-item-desc">
               <h1>OK Computer</h1>
-              <p>This is one of fucking great album.</p>
+              <p>This is one of great album.</p>
               <a class="btn mt-3 d-none d-xl-block">Learn more</a>
             </div>
           </div>
           <!-- Column set #2 -->
           <div class="col-12 col-md-6 col-xl-2 order-sm-4 order-xl-3">
-            <img class="img-fluid" src="images/Kid A.jpg" alt="">
+            <!-- <img class="img-fluid" src="./Images/Kid A.jpg" alt=""> -->
+            <img class="img-fluid" src="https://hips.hearstapps.com/esq.h-cdn.co/assets/15/24/1433876510-81p-o2cddll-sl1437-.jpg" alt="">
           </div>
           <div class="col-12 col-md-6 col-xl-2 order-sm-3 order-xl-4 point-left">
             <div class="menu-item-desc">
               <h1>Kid A</h1>
-              <p>This one is again one of the fucking great album.</p>
+              <p>This one is again one of the great album.</p>
               <a class="btn mt-3 d-none d-xl-block">Learn more</a>
             </div>
           </div>
           <!-- Column set #3 -->
           <div class="col-12 col-md-6 col-xl-2 order-sm-5 order-xl-5">
-            <img class="img-fluid" src="images/httt.jpg" alt="">
+            <!-- <img class="img-fluid" src="./Images/httt.jpg" alt=""> -->
+            <img class="img-fluid" src="https://images-na.ssl-images-amazon.com/images/I/A1y8IvOibwL._SY355_.jpg" alt="">
           </div>
           <div class="col-12 col-md-6 col-xl-2 order-sm-6 order-xl-6 point-left">
             <div class="menu-item-desc">
               <h1>Hail To The Thief</h1>
-              <p>And again one of the fucking great album.</p>
+              <p>And again one of the great album.</p>
               <a class="btn mt-3 d-none d-xl-block">Learn more</a>
             </div>
           </div>
@@ -137,34 +141,37 @@
         <div class="row no-gutters">
           <!-- Column set #4 -->
           <div class="col-12 col-md-6 col-xl-2 order-sm-2 order-xl-2">
-            <img class="img-fluid" src="images/Amnesiac.jpg" alt="">
+            <!-- <img class="img-fluid" src="./Images/Amnesiac.jpg" alt=""> -->
+            <img class="img-fluid" src="https://img.discogs.com/x57SM_XVsXVDhA6bd8rvI6hWqNo=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/R-173980-1385277715-2569.jpeg.jpg" alt="">
           </div>
           <div class="col-12 col-md-6 col-xl-2 order-sm-1 order-xl-1 point-right">
             <div class="menu-item-desc">
-              <h1>OK Computer</h1>
-              <p>This is one of fucking great album.</p>
+              <h1>Amnesiac</h1>
+              <p>This is one of great album.</p>
               <a class="btn mt-3 d-none d-xl-block">Learn more</a>
             </div>
           </div>
           <!-- Column set #5 -->
           <div class="col-12 col-md-6 col-xl-2 order-sm-3 order-xl-4">
-            <img class="img-fluid" src="images/The Bends.jpg" alt="">
+            <!-- <img class="img-fluid" src="./Images/The Bends.jpg" alt=""> -->
+            <img class="img-fluid" src="https://upload.wikimedia.org/wikipedia/en/5/55/Radioheadthebends.png" alt="">
           </div>
           <div class="col-12 col-md-6 col-xl-2 order-sm-5 order-xl-3 point-right">
             <div class="menu-item-desc">
-              <h1>Kid A</h1>
-              <p>This one is again one of the fucking great album.</p>
+              <h1>The Bends</h1>
+              <p>This one is again one of the great album.</p>
               <a class="btn mt-3 d-none d-xl-block">Learn more</a>
             </div>
           </div>
           <!-- Column set #6 -->
           <div class="col-12 col-md-6 col-xl-2 order-sm-6 order-xl-6">
-            <img class="img-fluid" src="images/King Of Limbs.jpg" alt="">
+            <!-- <img class="img-fluid" src="./Images/King Of Limbs.jpg" alt=""> -->
+            <img class="img-fluid" src="https://upload.wikimedia.org/wikipedia/en/a/a2/Radioheadthekingoflimbs.png" alt="">
           </div>
           <div class="col-12 col-md-6 col-xl-2 order-sm-5 order-xl-5 point-right">
             <div class="menu-item-desc">
-              <h1>Hail To The Thief</h1>
-              <p>And again one of the fucking great album.</p>
+              <h1>The King Of Limbs</h1>
+              <p>And again one of the great album.</p>
               <a class="btn mt-3 d-none d-xl-block">Learn more</a>
             </div>
           </div>
@@ -179,7 +186,8 @@
         </div>
         <div class="row text-center">
           <div class="col-12 col-md-4" data-aos-duration="1000" data-aos-easing="ease" data-aos="fade-right">
-            <img class="img-fluid" src="images/normal_Thom_Yorke.png" alt="">
+            <!-- <img class="img-fluid" src="./Images/normal_Thom_Yorke.png" alt=""> -->
+            <img class="img-fluid" src="https://i.redd.it/e6s1ns3x0df21.jpg" alt="">
             <div class="card-body">
               <h1>Thom Yorke</h1>
               <h6>Lead Vocalist</h6>
@@ -192,7 +200,8 @@
             </div>
           </div>
           <div class="col-12 col-md-4" data-aos-duration="1000" data-aos-easing="ease" data-aos="fade-up">
-            <img class="img-fluid" src="images/radio1_johnny01.jpg" alt="">
+            <!-- <img class="img-fluid" src="./Images/radio1_johnny01.jpg" alt=""> -->
+            <img class="img-fluid" src="https://external-preview.redd.it/OlVWgEHrMwhfPMjlPwb9fxwHfLWUBRIReAWibLh5j44.jpg?auto=webp&s=e5e24b38986c8beaafb5cb2a37e63c6e11be141f" alt="">
             <div class="card-body">
               <h1>Jonny GreenWood</h1>
               <h6>Multi instrumentalist</h6>
@@ -205,11 +214,12 @@
             </div>
           </div>
           <div class="col-12 col-md-4" data-aos-duration="1000" data-aos-easing="ease" data-aos="fade-left">
-            <img class="img-fluid" src="images/Colin+Greenwood+colin.jpg" alt="">
+            <!-- <img class="img-fluid" src="./Images/Colin+Greenwood+colin.jpg" alt=""> -->
+            <img class="img-fluid" src="http://sun9-62.userapi.com/c841332/v841332357/24b3f/oj5I8zjdP40.jpg" alt="">
             <div class="card-body">
               <h1>Colin Charles Greenwood</h1>
               <h6>Bassist</h6>
-              <p>He is phenomenol bassist.
+              <p>He is phenomial bassist
                 <!-- Colin Charles Greenwood (born 26 June 1969) is an English musician and the bassist for the alternative rock band Radiohead. Along with his younger brother, Radiohead guitarist Jonny Greenwood, Greenwood attended Abingdon School in Oxford, England, where he met the future band members. Radiohead have since achieved critical acclaim and have sold over 30 million albums. Along with bass guitar, Greenwood plays upright bass and electronic instruments.
                 Greenwood, whose father served in the British army, lived in Germany as a child for enough time to become fluent in German. He is the older brother of Radiohead guitarist Jonny Greenwood. The family historically had ties to the British Communist Party and the Fabian Society. Greenwood credited his older sister, Susan, with influencing his and his brother Jonny's taste in music as an adolescent: "She’s responsible for our precocious love of miserable music. The Fall, Magazine, Joy Division. We were ostracised at school because everyone else was into Iron Maiden."
                 According to Greenwood, he began playing bass out of necessity, teaching himself by playing along to New Order, Joy Division and Otis Redding. Among his musical influences are Booker T and the MGs, Bill Withers and Curtis Mayfield. He said: "We were people who picked up their respective instruments because we wanted to play music together, rather than just because we wanted to play that particular instrument. So it was more of a collective angle, and if you could contribute by having someone else play your instrument, then that was really cool. I don’t think of myself as a bass player anyway. I’m just in a band with other people." -->
@@ -217,7 +227,7 @@
             </div>
           </div>
           <!-- <div class="col-12 col-md-4">
-            <img class="img-fluid" src="images/thomy.jpg" alt="">
+            <img class="img-fluid" src="./Images/thomy.jpg" alt="">
             <div class="card-body">
               <h1>Thom Yorke</h1>
               <h6>Lead Vocalist</h6>
@@ -225,7 +235,7 @@
             </div>
           </div> -->
           <!-- <div class="col-12 col-md-4">
-            <img class="img-fluid" src="images/thomy.jpg" alt="">
+            <img class="img-fluid" src="./Images/thomy.jpg" alt="">
             <div class="card-body">
               <h1>Thom Yorke</h1>
               <h6>Lead Vocalist</h6>

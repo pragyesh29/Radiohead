@@ -19,6 +19,8 @@
         nav{
             height: 10vh;
             background-color: #101D2C;
+            position: fixed;
+            width: 100vw;
         }
         .nav-links{
             display: flex;

@@ -208,7 +208,7 @@ document.addEventListener('DOMContentLoaded',()=>{
     ui.setupAPP();
     // get all products
     products.getProducts().then(products => {
-        ui.displayProducts(products);
+        ui.displayProducts(products);   
         Storage.saveProducts(products);
     }).then(() =>{
         ui.getBagButtons();

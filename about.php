@@ -24,7 +24,7 @@
             <!-- <i class="fas fa-times"></i> -->
         </div>
         <div class="wrap-part">
-            <div class="img-container" style = "width: 50%; back">
+            <div class="img-container" style = "width: 50%;">
                 <?php
                     if(isset($_GET['band-name'])){
                         $sql = "select from bands where name = ".$_GET['band-name'];
