@@ -1,0 +1,50 @@
+.welcome{
+    text-align: center;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: rebeccapurple;
+    margin: 0;
+}
+.underline{
+    width: 100px;
+    height: 5px;
+    background-color: rebeccapurple;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+}
+.band{
+    background-color: rgb(227, 209, 231);
+}
+@media only screen and (min-width: 1024px){
+    .band{
+        display: flex;
+    }
+    .band .img-container{
+        flex: 1;
+    }
+    .band .item-info{
+        flex: 1;
+    }
+}
+.item-info{
+    padding: 1rem;
+}
+.img-container{
+    padding: 1rem;
+}
+.img-container img{
+    width: 100%;
+    height: 100%;
+    /* transform: rotate(3deg); */
+}
+.members{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.desc{
+    font-family: monospace;
+    font-size: 1.4rem;
+}
+.test{
+    display: none;
+}
