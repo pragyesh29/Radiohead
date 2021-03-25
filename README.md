@@ -7,3 +7,4 @@ I needed a topic on which I could create a website and since I love music very m
 * CSS and bootstrap
 * Javascript
 * PHP
+* SQL
