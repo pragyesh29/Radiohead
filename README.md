@@ -15,6 +15,3 @@ Since I love music very much, I thought about including it into my project and h
 
 ### Project Link
 * [Radiohead](https://radiogagab.000webhostapp.com/)
-
-### Cart
-* ![Cart](/home/pragyesh/Desktop/cart.png)
